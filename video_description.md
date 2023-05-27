@@ -20,4 +20,5 @@
 ### Revealing the Dark Secrets of Masked Image Modeling
 ### Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention
 ### Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth
+### Expanding Language-Image Pretrained Models for General Video Recognition
 ### 
