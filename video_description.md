@@ -3,6 +3,7 @@
 ### MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 ### Decoupling Human and Camera Motion from Videos in the Wild
 ### Learning to Segment Rigid Motions from Two Frames
+### BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
 ### Toward Automatic Audio Description Generation for Accessible Videos
 ### Weakly Supervised Dense Event Captioning in Videos
 ### Playing for Data: Ground Truth from Computer Games
