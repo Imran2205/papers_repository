@@ -1,3 +1,4 @@
+### Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning
 ### ImageBind: One Embedding Space To Bind Them All
 ### Learning to Segment Rigid Motions from Two Frames
 ### Toward Automatic Audio Description Generation for Accessible Videos
