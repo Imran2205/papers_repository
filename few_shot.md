@@ -7,6 +7,7 @@
 ### Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning
 ### Integrative Few-Shot Learning for Classification and Segmentation
 ### Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation
+### Part-aware Prototype Network for Few-shot Semantic Segmentation
 
 ## Transformers
 
