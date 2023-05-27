@@ -1,6 +1,7 @@
 ### Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning
 ### ImageBind: One Embedding Space To Bind Them All
 ### MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge
+### Decoupling Human and Camera Motion from Videos in the Wild
 ### Learning to Segment Rigid Motions from Two Frames
 ### Toward Automatic Audio Description Generation for Accessible Videos
 ### Weakly Supervised Dense Event Captioning in Videos
