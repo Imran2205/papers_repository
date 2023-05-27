@@ -17,6 +17,7 @@
 ### MViTv2: Improved Multiscale Vision Transformers for Classification and Detection
 ### Squeezeformer: An Efficient Transformer for Automatic Speech Recognition
 ### Multiscale Vision Transformers 
+### Multiscale Vision Transformers for Image Classification and Object Detection
 
 ## Semantic Segmentation
 ### Semantic Segmentation of Underwater Imagery: Dataset and Benchmark*
