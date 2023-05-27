@@ -130,137 +130,298 @@
 }
 ```
 ---
-### [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning]()
+### [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/4160/4038)
 ```angular2html
-
+@inproceedings{sap2019atomic,
+  title={Atomic: An atlas of machine commonsense for if-then reasoning},
+  author={Sap, Maarten and Le Bras, Ronan and Allaway, Emily and Bhagavatula, Chandra and Lourie, Nicholas and Rashkin, Hannah and Roof, Brendan and Smith, Noah A and Choi, Yejin},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={33},
+  number={01},
+  pages={3027--3035},
+  year={2019}
+}
 ```
 ---
-### [InfoGCN: Representation Learning for Human Skeleton-based Action Recognition]()
+### [InfoGCN: Representation Learning for Human Skeleton-based Action Recognition](http://openaccess.thecvf.com/content/CVPR2022/papers/Chi_InfoGCN_Representation_Learning_for_Human_Skeleton-Based_Action_Recognition_CVPR_2022_paper.pdf)
 ```angular2html
-
+@inproceedings{chi2022infogcn,
+  title={Infogcn: Representation learning for human skeleton-based action recognition},
+  author={Chi, Hyung-gun and Ha, Myoung Hoon and Chi, Seunggeun and Lee, Sang Wan and Huang, Qixing and Ramani, Karthik},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20186--20196},
+  year={2022}
+}
 ```
 ---
-### [What Makes Videos Accessible to Blind and Visually Impaired People?]()
+### [What Makes Videos Accessible to Blind and Visually Impaired People?](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445233)
 ```angular2html
-
+@inproceedings{liu2021makes,
+  title={What Makes Videos Accessible to Blind and Visually Impaired People?},
+  author={Liu, Xingyu and Carrington, Patrick and Chen, Xiang'Anthony' and Pavel, Amy},
+  booktitle={Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+  pages={1--14},
+  year={2021}
+}
 ```
 ---
-### ["Person, Shoes, Tree. Is the Person Naked?" What People with Vision Impairment Want in Image Descriptions]()
+### ["Person, Shoes, Tree. Is the Person Naked?" What People with Vision Impairment Want in Image Descriptions](https://dl.acm.org/doi/pdf/10.1145/3313831.3376404)
 ```angular2html
-
+@inproceedings{stangl2020person,
+  title={" Person, Shoes, Tree. Is the Person Naked?" What People with Vision Impairments Want in Image Descriptions},
+  author={Stangl, Abigale and Morris, Meredith Ringel and Gurari, Danna},
+  booktitle={Proceedings of the 2020 chi conference on human factors in computing systems},
+  pages={1--13},
+  year={2020}
+}
 ```
 ---
-### [Going Beyond One-Size-Fits-All Image Descriptions to Satisfy the Information Wants of People Who are Blind or Have Low Vision]()
+### [Going Beyond One-Size-Fits-All Image Descriptions to Satisfy the Information Wants of People Who are Blind or Have Low Vision](https://www-cs.stanford.edu/~merrie/papers/assets2021_scenarios.pdf)
 ```angular2html
-
+@inproceedings{stangl2021going,
+  title={Going beyond one-size-fits-all image descriptions to satisfy the information wants of people who are blind or have low vision},
+  author={Stangl, Abigale and Verma, Nitin and Fleischmann, Kenneth R and Morris, Meredith Ringel and Gurari, Danna},
+  booktitle={Proceedings of the 23rd International ACM SIGACCESS Conference on Computers and Accessibility},
+  pages={1--15},
+  year={2021}
+}
 ```
 ---
-### [Opportunities for Supporting Self-efficacy Through Orientation & Mobility Training Technologies for Blind and Partially Sighted People]()
+### [Opportunities for Supporting Self-efficacy Through Orientation & Mobility Training Technologies for Blind and Partially Sighted People](https://discovery.ucl.ac.uk/id/eprint/10139357/1/ASSETS21%20v2-1-submitted.pdf)
 ```angular2html
-
+@inproceedings{bandukda2021opportunities,
+  title={Opportunities for Supporting Self-efficacy Through Orientation \& Mobility Training Technologies for Blind and Partially Sighted People},
+  author={Bandukda, Maryam and Holloway, Catherine and Singh, Aneesha and Barbareschi, Giulia and Berthouze, Nadia},
+  booktitle={Proceedings of the 23rd International ACM SIGACCESS Conference on Computers and Accessibility},
+  pages={1--13},
+  year={2021}
+}
 ```
 ---
-### [GMPC-Tracker: Global Multi-object Tracking Using Generalized Minimum Clique Graphs]()
+### [GMPC-Tracker: Global Multi-object Tracking Using Generalized Minimum Clique Graphs](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d95d505a959c9fc8090cb84287dce92128fce63e)
 ```angular2html
-
+@inproceedings{roshan2012gmcp,
+  title={Gmcp-tracker: Global multi-object tracking using generalized minimum clique graphs},
+  author={Roshan Zamir, Amir and Dehghan, Afshin and Shah, Mubarak},
+  booktitle={Computer Vision--ECCV 2012: 12th European Conference on Computer Vision, Florence, Italy, October 7-13, 2012, Proceedings, Part II 12},
+  pages={343--356},
+  year={2012},
+  organization={Springer}
+}
 ```
 ---
-### [Toward Automatic Audio Description Generation for Accessible Videos]()
+### [Toward Automatic Audio Description Generation for Accessible Videos](https://par.nsf.gov/servlets/purl/10223292)
 ```angular2html
-
+@inproceedings{wang2021toward,
+  title={Toward automatic audio description generation for accessible videos},
+  author={Wang, Yujia and Liang, Wei and Huang, Haikun and Zhang, Yongqi and Li, Dingzeyu and Yu, Lap-Fai},
+  booktitle={Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+  pages={1--12},
+  year={2021}
+}
 ```
 ---
-### [A Benchmark and Simulator for UAV Tracking]()
+### [A Benchmark and Simulator for UAV Tracking](https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Where-I-can-find-the-details-of-UAV-videos-in-VIVID-dataset-commonly-use-to-evaluate-moving-object-detection-algorithms/attachment/59d63ebb79197b807799b4ec/AS%3A425034935214084%401478347633545/download/A+Benchmark+and+Simulator+for+UAV+Tracking.pdf)
 ```angular2html
-
+@inproceedings{mueller2016benchmark,
+  title={A benchmark and simulator for uav tracking},
+  author={Mueller, Matthias and Smith, Neil and Ghanem, Bernard},
+  booktitle={Computer Vision--ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11--14, 2016, Proceedings, Part I 14},
+  pages={445--461},
+  year={2016},
+  organization={Springer}
+}
 ```
 ---
-### [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing]()
+### [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815)
 ```angular2html
-
+@article{liu2023pre,
+  title={Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing},
+  author={Liu, Pengfei and Yuan, Weizhe and Fu, Jinlan and Jiang, Zhengbao and Hayashi, Hiroaki and Neubig, Graham},
+  journal={ACM Computing Surveys},
+  volume={55},
+  number={9},
+  pages={1--35},
+  year={2023},
+  publisher={ACM New York, NY}
+}
 ```
 ---
-### [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation]()
+### [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation](http://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Masked-Attention_Mask_Transformer_for_Universal_Image_Segmentation_CVPR_2022_paper.pdf)
 ```angular2html
-
+@inproceedings{cheng2022masked,
+  title={Masked-attention mask transformer for universal image segmentation},
+  author={Cheng, Bowen and Misra, Ishan and Schwing, Alexander G and Kirillov, Alexander and Girdhar, Rohit},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1290--1299},
+  year={2022}
+}
 ```
 ---
-### [Qetch: Time Series Querying with Expressive Sketches]()
+### [Qetch: Time Series Querying with Expressive Sketches](https://www.researchgate.net/publication/325374842_Qetch_Time_Series_Querying_with_Expressive_Sketches)
 ```angular2html
-
+@inproceedings{mannino2018qetch,
+  title={Qetch: Time series querying with expressive sketches},
+  author={Mannino, Miro and Abouzied, Azza},
+  booktitle={Proceedings of the 2018 International Conference on Management of Data},
+  pages={1741--1744},
+  year={2018}
+}
 ```
 ---
-### [Masked-attention Mask Transformer for Universal Image Segmentation]()
+### [Masked-attention Mask Transformer for Universal Image Segmentation](http://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Masked-Attention_Mask_Transformer_for_Universal_Image_Segmentation_CVPR_2022_paper.pdf)
 ```angular2html
-
+@inproceedings{cheng2022masked,
+  title={Masked-attention mask transformer for universal image segmentation},
+  author={Cheng, Bowen and Misra, Ishan and Schwing, Alexander G and Kirillov, Alexander and Girdhar, Rohit},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1290--1299},
+  year={2022}
+}
 ```
 ---
-### [Revealing the Dark Secrets of Masked Image Modeling]()
+### [Revealing the Dark Secrets of Masked Image Modeling](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Revealing_the_Dark_Secrets_of_Masked_Image_Modeling_CVPR_2023_paper.pdf)
 ```angular2html
-
+@inproceedings{xie2023revealing,
+  title={Revealing the dark secrets of masked image modeling},
+  author={Xie, Zhenda and Geng, Zigang and Hu, Jingcheng and Zhang, Zheng and Hu, Han and Cao, Yue},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14475--14485},
+  year={2023}
+}
 ```
 ---
-### [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention]()
+### [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Attention_Attention_Everywhere_Monocular_Depth_Prediction_With_Skip_Attention_WACV_2023_paper.pdf)
 ```angular2html
-
+@inproceedings{agarwal2023attention,
+  title={Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention},
+  author={Agarwal, Ashutosh and Arora, Chetan},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={5861--5870},
+  year={2023}
+}
 ```
 ---
-### [Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth]()
+### [Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth](https://arxiv.org/pdf/2201.07436)
 ```angular2html
-
+@article{kim2022global,
+  title={Global-local path networks for monocular depth estimation with vertical cutdepth},
+  author={Kim, Doyeon and Ka, Woonghyun and Ahn, Pyungwhan and Joo, Donggyu and Chun, Sehwan and Kim, Junmo},
+  journal={arXiv preprint arXiv:2201.07436},
+  year={2022}
+}
 ```
 ---
-### [Expanding Language-Image Pretrained Models for General Video Recognition]()
+### [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/pdf/2208.02816)
 ```angular2html
-
+@inproceedings{ni2022expanding,
+  title={Expanding language-image pretrained models for general video recognition},
+  author={Ni, Bolin and Peng, Houwen and Chen, Minghao and Zhang, Songyang and Meng, Gaofeng and Fu, Jianlong and Xiang, Shiming and Ling, Haibin},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part IV},
+  pages={1--18},
+  year={2022},
+  organization={Springer}
+}
 ```
 ---
-### [Expanding Language-Image Pretrained Models for General Video Recognition]()
+### [RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics](https://arxiv.org/pdf/2011.12954.pdf)
 ```angular2html
-
+@article{DBLP:journals/corr/abs-2011-12954,
+  author       = {Peng Jiang and
+                  Philip R. Osteen and
+                  Maggie B. Wigness and
+                  Srikanth Saripalli},
+  title        = {{RELLIS-3D} Dataset: Data, Benchmarks and Analysis},
+  journal      = {CoRR},
+  volume       = {abs/2011.12954},
+  year         = {2020},
+  url          = {https://arxiv.org/abs/2011.12954},
+  eprinttype    = {arXiv},
+  eprint       = {2011.12954},
+  timestamp    = {Tue, 11 Jan 2022 08:08:13 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2011-12954.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 ```
 ---
-### [RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics]()
+### [Learning to Segment Rigid Motions from Two Frames](http://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Learning_To_Segment_Rigid_Motions_From_Two_Frames_CVPR_2021_paper.pdf)
 ```angular2html
-
+@inproceedings{yang2021learning,
+  title={Learning to segment rigid motions from two frames},
+  author={Yang, Gengshan and Ramanan, Deva},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1266--1275},
+  year={2021}
+}
 ```
 ---
-### [Learning to Segment Rigid Motions from Two Frames]()
+### [CelebV-Text: A Large-Scale Facial Text-Video Dataset](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_CelebV-Text_A_Large-Scale_Facial_Text-Video_Dataset_CVPR_2023_paper.pdf)
 ```angular2html
-
+@inproceedings{yu2023celebv,
+  title={CelebV-Text: A Large-Scale Facial Text-Video Dataset},
+  author={Yu, Jianhui and Zhu, Hao and Jiang, Liming and Loy, Chen Change and Cai, Weidong and Wu, Wayne},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14805--14814},
+  year={2023}
+}
 ```
 ---
-### [CelebV-Text: A Large-Scale Facial Text-Video Dataset]()
+### [OpenAI Gym](https://arxiv.org/pdf/1606.01540)
 ```angular2html
-
+@article{brockman2016openai,
+  title={Openai gym},
+  author={Brockman, Greg and Cheung, Vicki and Pettersson, Ludwig and Schneider, Jonas and Schulman, John and Tang, Jie and Zaremba, Wojciech},
+  journal={arXiv preprint arXiv:1606.01540},
+  year={2016}
+}
 ```
 ---
-### [OpenAI Gym]()
+### [Relation-Aware Graph Convolutional Networks for Agent-Initiated Social E-Commerce Recommendation](https://scholar.archive.org/work/jrge5cfacfalzgjvmn7hncyyu4/access/wayback/https://www.microsoft.com/en-us/research/uploads/prod/2019/09/CIKM19-recogcn.pdf)
 ```angular2html
-
+@inproceedings{xu2019relation,
+  title={Relation-aware graph convolutional networks for agent-initiated social e-commerce recommendation},
+  author={Xu, Fengli and Lian, Jianxun and Han, Zhenyu and Li, Yong and Xu, Yujian and Xie, Xing},
+  booktitle={Proceedings of the 28th ACM international conference on information and knowledge management},
+  pages={529--538},
+  year={2019}
+}
 ```
 ---
-### [Relation-Aware Graph Convolutional Networks for Agent-Initiated Social E-Commerce Recommendation]()
+### [Superpoint: Self-supervised interest point detection and description](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf)
 ```angular2html
-
-```
----
-### [Superpoint: Self-supervised interest point detection and description]()
-```angular2html
-
+@inproceedings{detone2018superpoint,
+  title={Superpoint: Self-supervised interest point detection and description},
+  author={DeTone, Daniel and Malisiewicz, Tomasz and Rabinovich, Andrew},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition workshops},
+  pages={224--236},
+  year={2018}
+}
 ```
 ---
 ### [A novel parametrization of the perspective-three-point problem for a direct computation of absolute camera position and orientation](https://www.researchgate.net/profile/Davide-Scaramuzza-3/publication/319770452_A_novel_parametrization_of_the_perspective-three-point_problem_for_a_direct_computation_of_absolute_camera_position_and_orientation/links/5a423ec2a6fdcce1971426ce/A-novel-parametrization-of-the-perspective-three-point-problem-for-a-direct-computation-of-absolute-camera-position-and-orientation.pdf)
 ```angular2html
-
+@inproceedings{kneip2011novel,
+  title={A novel parametrization of the perspective-three-point problem for a direct computation of absolute camera position and orientation},
+  author={Kneip, Laurent and Scaramuzza, Davide and Siegwart, Roland},
+  booktitle={CVPR 2011},
+  pages={2969--2976},
+  year={2011},
+  organization={IEEE}
+}
 ```
 ---
 ### [Structure-from-motion revisited](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)
 ```angular2html
-
+@inproceedings{schonberger2016structure,
+  title={Structure-from-motion revisited},
+  author={Schonberger, Johannes L and Frahm, Jan-Michael},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={4104--4113},
+  year={2016}
+}
 ```
 ---
-### [The tenth visual object tracking vot2022 challenge results]()
+### [The tenth visual object tracking vot2022 challenge results](https://drive.google.com/file/d/1KcTuJImILUhtNT098BNW5D4TScWVO6lU/view)
 ```angular2html
 @inproceedings{kristan2023tenth,
   title={The tenth visual object tracking vot2022 challenge results},
@@ -272,7 +433,7 @@
 }
 ```
 ---
-### [Lasot: A high-quality benchmark for large-scale single object tracking]()
+### [Lasot: A high-quality benchmark for large-scale single object tracking](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.pdf)
 ```angular2html
 @inproceedings{fan2019lasot,
   title={Lasot: A high-quality benchmark for large-scale single object tracking},
@@ -283,7 +444,7 @@
 }
 ```
 ---
-### [Probabilistic Volumetric Fusion for Dense Monocular SLAM]()
+### [Probabilistic Volumetric Fusion for Dense Monocular SLAM](https://openaccess.thecvf.com/content/WACV2023/papers/Rosinol_Probabilistic_Volumetric_Fusion_for_Dense_Monocular_SLAM_WACV_2023_paper.pdf)
 ```angular2html
 @inproceedings{rosinol2023probabilistic,
   title={Probabilistic Volumetric Fusion for Dense Monocular SLAM},
@@ -293,7 +454,7 @@
   year={2023}
 }
 ```
-### [SegMap: Segment-based mapping and localization using data-driven descriptors]()
+### [SegMap: Segment-based mapping and localization using data-driven descriptors](https://arxiv.org/pdf/1909.12837)
 ```angular2html
 @article{dube2020segmap,
   title={SegMap: Segment-based mapping and localization using data-driven descriptors},
@@ -304,6 +465,30 @@
   pages={339--355},
   year={2020},
   publisher={Sage Publications Sage UK: London, England}
+}
+```
+---
+### [Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/pdf/1909.11065)
+```angular2html
+@article{yuan2019segmentation,
+  title={Segmentation transformer: Object-contextual representations for semantic segmentation},
+  author={Yuan, Yuhui and Chen, Xiaokang and Chen, Xilin and Wang, Jingdong},
+  journal={arXiv preprint arXiv:1909.11065},
+  year={2019}
+}
+```
+---
+### [Deep High-Resolution Representation Learning for Visual Recognition](https://arxiv.org/pdf/1908.07919)
+```angular2html
+@article{wang2020deep,
+  title={Deep high-resolution representation learning for visual recognition},
+  author={Wang, Jingdong and Sun, Ke and Cheng, Tianheng and Jiang, Borui and Deng, Chaorui and Zhao, Yang and Liu, Dong and Mu, Yadong and Tan, Mingkui and Wang, Xinggang and others},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={43},
+  number={10},
+  pages={3349--3364},
+  year={2020},
+  publisher={IEEE}
 }
 ```
 ---
