@@ -14,3 +14,4 @@
 ### Toward Automatic Audio Description Generation for Accessible Videos
 ### A Benchmark and Simulator for UAV Tracking
 ### Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
+### Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation
