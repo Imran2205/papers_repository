@@ -25,3 +25,4 @@
 ### Expanding Language-Image Pretrained Models for General Video Recognition
 ### RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
 ### Learning to Segment Rigid Motions from Two Frames
+### CelebV-Text: A Large-Scale Facial Text-Video Dataset
