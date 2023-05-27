@@ -16,3 +16,4 @@
 ### Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
 ### Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation
 ### Qetch: Time Series Querying with Expressive Sketches
+### Masked-attention Mask Transformer for Universal Image Segmentation
