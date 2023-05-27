@@ -18,3 +18,4 @@
 ### Qetch: Time Series Querying with Expressive Sketches
 ### Masked-attention Mask Transformer for Universal Image Segmentation
 ### Revealing the Dark Secrets of Masked Image Modeling
+### Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention
