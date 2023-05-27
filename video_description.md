@@ -17,3 +17,4 @@
 ### Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation
 ### Qetch: Time Series Querying with Expressive Sketches
 ### Masked-attention Mask Transformer for Universal Image Segmentation
+### Revealing the Dark Secrets of Masked Image Modeling
