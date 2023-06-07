@@ -1,3 +1,14 @@
+### [From Recognition to Cognition: Visual Commonsense Reasoning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zellers_From_Recognition_to_Cognition_Visual_Commonsense_Reasoning_CVPR_2019_paper.pdf)
+```angular2html
+@inproceedings{zellers2019recognition,
+  title={From recognition to cognition: Visual commonsense reasoning},
+  author={Zellers, Rowan and Bisk, Yonatan and Farhadi, Ali and Choi, Yejin},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={6720--6731},
+  year={2019}
+}
+```
+---
 ### [Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning](https://arxiv.org/pdf/2302.14115.pdf)
 ```angular2html
 @inproceedings{chi2022infogcn,
