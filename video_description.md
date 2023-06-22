@@ -503,3 +503,57 @@
 }
 ```
 ---
+### [AirDOS: dynamic SLAM benefits from articulated objects](https://arxiv.org/pdf/2109.09903)
+```angular2html
+@inproceedings{qiu2022airdos,
+  title={AirDOS: dynamic SLAM benefits from articulated objects},
+  author={Qiu, Yuheng and Wang, Chen and Wang, Wenshan and Henein, Mina and Scherer, Sebastian},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={8047--8053},
+  year={2022},
+  organization={IEEE}
+}
+```
+---
+### [Unified Representation of Geometric Primitives for Graph-SLAM Optimization Using Decomposed Quadrics](https://arxiv.org/pdf/2108.08957)
+```angular2html
+@inproceedings{zhen2022unified,
+  title={Unified representation of geometric primitives for graph-slam optimization using decomposed quadrics},
+  author={Zhen, Weikun and Yu, Huai and Hu, Yaoyu and Scherer, Sebastian},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={5636--5642},
+  year={2022},
+  organization={IEEE}
+}
+```
+### [AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking](https://arxiv.org/pdf/2209.12849)
+```angular2html
+@article{ghosh2022airtrack,
+  title={AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking},
+  author={Ghosh, Sourish and Patrikar, Jay and Moon, Brady and Hamidi, Milad Moghassem and others},
+  journal={arXiv preprint arXiv:2209.12849},
+  year={2022}
+}
+```
+### [VDO-SLAM: A Visual Dynamic Object-aware SLAM System](https://arxiv.org/pdf/2005.11052)
+```angular2html
+@article{zhang2020vdo,
+  title={VDO-SLAM: a visual dynamic object-aware SLAM system},
+  author={Zhang, Jun and Henein, Mina and Mahony, Robert and Ila, Viorela},
+  journal={arXiv preprint arXiv:2005.11052},
+  year={2020}
+}
+```
+### [ORB-SLAM: a versatile and accurate monocular SLAM system](https://arxiv.org/pdf/1502.00956)
+```angular2html
+@article{mur2015orb,
+  title={ORB-SLAM: a versatile and accurate monocular SLAM system},
+  author={Mur-Artal, Raul and Montiel, Jose Maria Martinez and Tardos, Juan D},
+  journal={IEEE transactions on robotics},
+  volume={31},
+  number={5},
+  pages={1147--1163},
+  year={2015},
+  publisher={IEEE}
+}
+```
