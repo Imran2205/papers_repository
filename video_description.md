@@ -557,3 +557,35 @@
   publisher={IEEE}
 }
 ```
+### [ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/pdf/2111.09734)
+```js
+@article{mokady2021clipcap,
+  title={Clipcap: Clip prefix for image captioning},
+  author={Mokady, Ron and Hertz, Amir and Bermano, Amit H},
+  journal={arXiv preprint arXiv:2111.09734},
+  year={2021}
+}
+```
+### [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774)
+```js
+@misc{openai2023gpt4,
+      title={GPT-4 Technical Report}, 
+      author={OpenAI},
+      year={2023},
+      eprint={2303.08774},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+### [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+```js
+@article{radford2019language,
+  title={Language models are unsupervised multitask learners},
+  author={Radford, Alec and Wu, Jeffrey and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya and others},
+  journal={OpenAI blog},
+  volume={1},
+  number={8},
+  pages={9},
+  year={2019}
+}
+```
