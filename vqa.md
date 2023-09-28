@@ -1,5 +1,5 @@
 ### [SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency](https://arxiv.org/pdf/2010.10038)
-```angular2html
+```shell
 @article{dharur2020sort,
   title={Sort-ing vqa models: Contrastive gradient learning for improved consistency},
   author={Dharur, Sameer and Tendulkar, Purva and Batra, Dhruv and Parikh, Devi and Selvaraju, Ramprasaath R},
@@ -9,7 +9,7 @@
 ```
 ---
 ### [AutoAD: Movie Description in Context](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_AutoAD_Movie_Description_in_Context_CVPR_2023_paper.pdf)
-```angular2html
+```shell
 @article{han2023autoad,
   title={AutoAD: Movie Description in Context},
   author={Han, Tengda and Bain, Max and Nagrani, Arsha and Varol, G{\"u}l and Xie, Weidi and Zisserman, Andrew},
@@ -19,7 +19,7 @@
 ```
 ---
 ### [MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_MuKEA_Multimodal_Knowledge_Extraction_and_Accumulation_for_Knowledge-Based_Visual_Question_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{ding2022mukea,
   title={Mukea: Multimodal knowledge extraction and accumulation for knowledge-based visual question answering},
   author={Ding, Yang and Yu, Jing and Liu, Bang and Hu, Yue and Cui, Mingxin and Wu, Qi},
@@ -30,7 +30,7 @@
 ```
 ---
 ### [Greedy Gradient Ensemble for Robust Visual Question Answering](http://openaccess.thecvf.com/content/ICCV2021/papers/Han_Greedy_Gradient_Ensemble_for_Robust_Visual_Question_Answering_ICCV_2021_paper.pdf)
-```angular2html
+```shell
 @inproceedings{han2021greedy,
   title={Greedy gradient ensemble for robust visual question answering},
   author={Han, Xinzhe and Wang, Shuhui and Su, Chi and Huang, Qingming and Tian, Qi},
@@ -41,7 +41,7 @@
 ```
 ---
 ### [TRAR: Routing the Attention Spans in Transformer for Visual Question Answering](http://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.pdf)
-```angular2html
+```shell
 @inproceedings{zhou2021trar,
   title={Trar: Routing the attention spans in transformer for visual question answering},
   author={Zhou, Yiyi and Ren, Tianhe and Zhu, Chaoyang and Sun, Xiaoshuai and Liu, Jianzhuang and Ding, Xinghao and Xu, Mingliang and Ji, Rongrong},
@@ -52,7 +52,7 @@
 ```
 ---
 ### [Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly](https://arxiv.org/pdf/2204.13631)
-```angular2html
+```shell
 @inproceedings{whitehead2022reliable,
   title={Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly},
   author={Whitehead, Spencer and Petryk, Suzanne and Shakib, Vedaad and Gonzalez, Joseph and Darrell, Trevor and Rohrbach, Anna and Rohrbach, Marcus},
@@ -64,7 +64,7 @@
 ```
 ---
 ### [Image quality assessment: from error visibility to structural similarity](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf)
-```angular2html
+```shell
 @article{wang2004image,
   title={Image quality assessment: from error visibility to structural similarity},
   author={Wang, Zhou and Bovik, Alan C and Sheikh, Hamid R and Simoncelli, Eero P},
@@ -78,7 +78,7 @@
 ```
 ---
 ### [Imagenet large scale visual recognition challenge](https://arxiv.org/pdf/1409.0575))
-```angular2html
+```shell
 @article{russakovsky2015imagenet,
   title={Imagenet large scale visual recognition challenge},
   author={Russakovsky, Olga and Deng, Jia and Su, Hao and Krause, Jonathan and Satheesh, Sanjeev and Ma, Sean and Huang, Zhiheng and Karpathy, Andrej and Khosla, Aditya and Bernstein, Michael and others},
@@ -91,7 +91,7 @@
 ```
 ---
 ### [Imagenet classification with deep convolutional neural networks](https://dl.acm.org/doi/pdf/10.1145/3065386)
-```angular2html
+```shell
 @article{krizhevsky2017imagenet,
   title={Imagenet classification with deep convolutional neural networks},
   author={Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E},
@@ -105,7 +105,7 @@
 ```
 ---
 ### [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf%E3%80%82)
-```angular2html
+```shell
 @article{simonyan2014very,
   title={Very deep convolutional networks for large-scale image recognition},
   author={Simonyan, Karen and Zisserman, Andrew},
@@ -115,7 +115,7 @@
 ```
 ---
 ### [Towards general purpose vision systems: An end-to-end task-agnostic](http://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_Towards_General_Purpose_Vision_Systems_An_End-to-End_Task-Agnostic_Vision-Language_Architecture_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{gupta2022towards,
   title={Towards general purpose vision systems: An end-to-end task-agnostic vision-language architecture},
   author={Gupta, Tanmay and Kamath, Amita and Kembhavi, Aniruddha and Hoiem, Derek},
@@ -127,7 +127,7 @@
 ```
 ---
 ### [LAVIS: A Library for Language-Vision Intelligence](https://arxiv.org/pdf/2209.09019)
-```angular2html
+```shell
 @misc{li2022lavis,
       title={LAVIS: A Library for Language-Vision Intelligence}, 
       author={Dongxu Li and Junnan Li and Hung Le and Guangsen Wang and Silvio Savarese and Steven C. H. Hoi},
@@ -138,3 +138,12 @@
 }
 ```
 ---
+### [ARGUS: Visualization of AI-Assisted Task Guidance in AR](https://arxiv.org/pdf/2308.06246)
+```shell
+@article{castelo2023argus,
+  title={ARGUS: Visualization of AI-Assisted Task Guidance in AR},
+  author={Castelo, Sonia and Rulff, Joao and McGowan, Erin and Steers, Bea and Wu, Guande and Chen, Shaoyu and Roman, Iran and Lopez, Roque and Brewer, Ethan and Zhao, Chen and others},
+  journal={arXiv preprint arXiv:2308.06246},
+  year={2023}
+}
+```
