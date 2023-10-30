@@ -147,3 +147,40 @@
   year={2023}
 }
 ```
+---
+### [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/pdf/1801.03924.pdf)
+```shell
+@inproceedings{zhang2018unreasonable,
+  title={The unreasonable effectiveness of deep features as a perceptual metric},
+  author={Zhang, Richard and Isola, Phillip and Efros, Alexei A and Shechtman, Eli and Wang, Oliver},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={586--595},
+  year={2018}
+}
+```
+---
+### [Why Does a Visual Question Have Different Answers?](https://arxiv.org/pdf/1908.04342.pdf)
+```shell
+@inproceedings{bhattacharya2019does,
+  title={Why does a visual question have different answers?},
+  author={Bhattacharya, Nilavra and Li, Qing and Gurari, Danna},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4271--4280},
+  year={2019}
+}
+```
+---
+### [Vision Skills Needed to Answer Visual Questions](https://arxiv.org/pdf/2010.03160.pdf)
+```shell
+@article{zeng2020vision,
+  title={Vision skills needed to answer visual questions},
+  author={Zeng, Xiaoyu and Wang, Yanan and Chiu, Tai-Yin and Bhattacharya, Nilavra and Gurari, Danna},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={4},
+  number={CSCW2},
+  pages={1--31},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+```
+---
