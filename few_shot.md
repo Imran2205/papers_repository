@@ -1,5 +1,5 @@
 ### [Adaptive Prototype Learning and Allocation for Few-Shot Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Adaptive_Prototype_Learning_and_Allocation_for_Few-Shot_Segmentation_CVPR_2021_paper.pdf)
-```angular2html
+```shell
 @inproceedings{li2021adaptive,
   title={Adaptive prototype learning and allocation for few-shot segmentation},
   author={Li, Gen and Jampani, Varun and Sevilla-Lara, Laura and Sun, Deqing and Kim, Jonghyun and Kim, Joongkyu},
@@ -10,7 +10,7 @@
 ```
 ---
 ### [Hypercorrelation Squeeze for Few-Shot Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Hypercorrelation_Squeeze_for_Few-Shot_Segmentation_ICCV_2021_paper.pdf)
-```angular2html
+```shell
 @inproceedings{min2021hypercorrelation,
   title={Hypercorrelation squeeze for few-shot segmentation},
   author={Min, Juhong and Kang, Dahyun and Cho, Minsu},
@@ -21,7 +21,7 @@
 ```
 ---
 ### [Learning to Affiliate: Mutual Centralized Learning for Few-shot Classification](http://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_To_Affiliate_Mutual_Centralized_Learning_for_Few-Shot_Classification_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{liu2022learning,
   title={Learning to affiliate: Mutual centralized learning for few-shot classification},
   author={Liu, Yang and Zhang, Weifeng and Xiang, Chao and Zheng, Tu and Cai, Deng and He, Xiaofei},
@@ -32,7 +32,7 @@
 ```
 ---
 ### [Learning What Not to Segment: A New Perspective on Few-Shot Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lang_Learning_What_Not_To_Segment_A_New_Perspective_on_Few-Shot_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{lang2022learning,
   title={Learning what not to segment: A new perspective on few-shot segmentation},
   author={Lang, Chunbo and Cheng, Gong and Tu, Binfei and Han, Junwei},
@@ -43,7 +43,7 @@
 ```
 ---
 ### [Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Attribute_Surrogates_Learning_and_Spectral_Tokens_Pooling_in_Transformers_for_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{he2022attribute,
   title={Attribute surrogates learning and spectral tokens pooling in transformers for few-shot learning},
   author={He, Yangji and Liang, Weihan and Zhao, Dongyang and Zhou, Hong-Yu and Ge, Weifeng and Yu, Yizhou and Zhang, Wenqiang},
@@ -54,7 +54,7 @@
 ```
 ---
 ### [Integrative Few-Shot Learning for Classification and Segmentation](http://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Integrative_Few-Shot_Learning_for_Classification_and_Segmentation_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{kang2022integrative,
   title={Integrative few-shot learning for classification and segmentation},
   author={Kang, Dahyun and Cho, Minsu},
@@ -65,7 +65,7 @@
 ```
 ---
 ### [Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation](http://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{liu2022dynamic,
   title={Dynamic prototype convolution network for few-shot semantic segmentation},
   author={Liu, Jie and Bao, Yanqi and Xie, Guo-Sen and Xiong, Huan and Sonke, Jan-Jakob and Gavves, Efstratios},
@@ -76,7 +76,7 @@
 ```
 ---
 ### [Part-aware Prototype Network for Few-shot Semantic Segmentation](https://arxiv.org/pdf/2007.06309)
-```angular2html
+```shell
 @inproceedings{liu2020part,
   title={Part-aware prototype network for few-shot semantic segmentation},
   author={Liu, Yongfei and Zhang, Xiangyi and Zhang, Songyang and He, Xuming},
@@ -88,7 +88,7 @@
 ```
 ---
 ### [Semantic Segmentation of Underwater Imagery: Dataset and Benchmark*](https://arxiv.org/pdf/2004.01241)
-```angular2html
+```shell
 @inproceedings{islam2020semantic,
   title={Semantic segmentation of underwater imagery: Dataset and benchmark},
   author={Islam, Md Jahidul and Edge, Chelsey and Xiao, Yuyang and Luo, Peigen and Mehtaz, Muntaqim and Morse, Christopher and Enan, Sadman Sakib and Sattar, Junaed},

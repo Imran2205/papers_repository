@@ -1,5 +1,5 @@
 ### [From Recognition to Cognition: Visual Commonsense Reasoning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zellers_From_Recognition_to_Cognition_Visual_Commonsense_Reasoning_CVPR_2019_paper.pdf)
-```angular2html
+```shell
 @inproceedings{zellers2019recognition,
   title={From recognition to cognition: Visual commonsense reasoning},
   author={Zellers, Rowan and Bisk, Yonatan and Farhadi, Ali and Choi, Yejin},
@@ -10,7 +10,7 @@
 ```
 ---
 ### [Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning](https://arxiv.org/pdf/2302.14115.pdf)
-```angular2html
+```shell
 @inproceedings{chi2022infogcn,
   title={Infogcn: Representation learning for human skeleton-based action recognition},
   author={Chi, Hyung-gun and Ha, Myoung Hoon and Chi, Seunggeun and Lee, Sang Wan and Huang, Qixing and Ramani, Karthik},
@@ -21,7 +21,7 @@
 ```
 ---
 ### [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf)
-```angular2html
+```shell
 @inproceedings{girdhar2023imagebind,
   title={Imagebind: One embedding space to bind them all},
   author={Girdhar, Rohit and El-Nouby, Alaaeldin and Liu, Zhuang and Singh, Mannat and Alwala, Kalyan Vasudev and Joulin, Armand and Misra, Ishan},
@@ -32,7 +32,7 @@
 ```
 ---
 ### [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/pdf/2206.08853)
-```angular2html
+```shell
 @article{fan2022minedojo,
   title={Minedojo: Building open-ended embodied agents with internet-scale knowledge},
   author={Fan, Linxi and Wang, Guanzhi and Jiang, Yunfan and Mandlekar, Ajay and Yang, Yuncong and Zhu, Haoyi and Tang, Andrew and Huang, De-An and Zhu, Yuke and Anandkumar, Anima},
@@ -42,7 +42,7 @@
 ```
 ---
 ### [Decoupling Human and Camera Motion from Videos in the Wild](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Decoupling_Human_and_Camera_Motion_From_Videos_in_the_Wild_CVPR_2023_paper.pdf)
-```angular2html
+```shell
 @inproceedings{ye2023decoupling,
   title={Decoupling human and camera motion from videos in the wild},
   author={Ye, Vickie and Pavlakos, Georgios and Malik, Jitendra and Kanazawa, Angjoo},
@@ -53,7 +53,7 @@
 ```
 ---
 ### [Learning to Segment Rigid Motions from Two Frames](http://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Learning_To_Segment_Rigid_Motions_From_Two_Frames_CVPR_2021_paper.pdf)
-```angular2html
+```shell
 @inproceedings{yang2021learning,
   title={Learning to segment rigid motions from two frames},
   author={Yang, Gengshan and Ramanan, Deva},
@@ -64,7 +64,7 @@
 ```
 ---
 ### [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597)
-```angular2html
+```shell
 @article{li2023blip,
   title={Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models},
   author={Li, Junnan and Li, Dongxu and Savarese, Silvio and Hoi, Steven},
@@ -74,7 +74,7 @@
 ```
 ---
 ### [Toward Automatic Audio Description Generation for Accessible Videos](https://par.nsf.gov/servlets/purl/10223292)
-```angular2html
+```shell
 @inproceedings{wang2021toward,
   title={Toward automatic audio description generation for accessible videos},
   author={Wang, Yujia and Liang, Wei and Huang, Haikun and Zhang, Yongqi and Li, Dingzeyu and Yu, Lap-Fai},
@@ -85,7 +85,7 @@
 ```
 ---
 ### [Weakly Supervised Dense Event Captioning in Videos](https://proceedings.neurips.cc/paper/2018/file/49af6c4e558a7569d80eee2e035e2bd7-Paper.pdf)
-```angular2html
+```shell
 @article{duan2018weakly,
   title={Weakly supervised dense event captioning in videos},
   author={Duan, Xuguang and Huang, Wenbing and Gan, Chuang and Wang, Jingdong and Zhu, Wenwu and Huang, Junzhou},
@@ -96,7 +96,7 @@
 ```
 ---
 ### [Playing for Data: Ground Truth from Computer Games](https://arxiv.org/pdf/1608.02192)
-```angular2html
+```shell
 @inproceedings{richter2016playing,
   title={Playing for data: Ground truth from computer games},
   author={Richter, Stephan R and Vineet, Vibhav and Roth, Stefan and Koltun, Vladlen},
@@ -108,7 +108,7 @@
 ```
 ---
 ### [Playing for benchmarks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Richter_Playing_for_Benchmarks_ICCV_2017_paper.pdf)
-```angular2html
+```shell
 @inproceedings{richter2017playing,
   title={Playing for benchmarks},
   author={Richter, Stephan R and Hayder, Zeeshan and Koltun, Vladlen},
@@ -119,7 +119,7 @@
 ```
 ---
 ### [From Coarse to Fine: Robust Hierarchical Localization at Large Scale](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sarlin_From_Coarse_to_Fine_Robust_Hierarchical_Localization_at_Large_Scale_CVPR_2019_paper.pdf)
-```angular2html
+```shell
 @inproceedings{sarlin2019coarse,
   title={From coarse to fine: Robust hierarchical localization at large scale},
   author={Sarlin, Paul-Edouard and Cadena, Cesar and Siegwart, Roland and Dymczyk, Marcin},
@@ -130,7 +130,7 @@
 ```
 ---
 ### [Self-Improving Semantic Perception for Indoor Localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)
-```angular2html
+```shell
 @inproceedings{blum2022self,
   title={Self-Improving semantic perception for Indoor localisation},
   author={Blum, Hermann and Milano, Francesco and Zurbr{\"u}gg, Ren{\'e} and Siegwart, Roland and Cadena, Cesar and Gawel, Abel},
@@ -141,8 +141,8 @@
 }
 ```
 ---
-### [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/4160/4038)
-```angular2html
+### [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](https://oshell.aaai.org/index.php/AAAI/article/view/4160/4038)
+```shell
 @inproceedings{sap2019atomic,
   title={Atomic: An atlas of machine commonsense for if-then reasoning},
   author={Sap, Maarten and Le Bras, Ronan and Allaway, Emily and Bhagavatula, Chandra and Lourie, Nicholas and Rashkin, Hannah and Roof, Brendan and Smith, Noah A and Choi, Yejin},
@@ -155,7 +155,7 @@
 ```
 ---
 ### [InfoGCN: Representation Learning for Human Skeleton-based Action Recognition](http://openaccess.thecvf.com/content/CVPR2022/papers/Chi_InfoGCN_Representation_Learning_for_Human_Skeleton-Based_Action_Recognition_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{chi2022infogcn,
   title={Infogcn: Representation learning for human skeleton-based action recognition},
   author={Chi, Hyung-gun and Ha, Myoung Hoon and Chi, Seunggeun and Lee, Sang Wan and Huang, Qixing and Ramani, Karthik},
@@ -166,7 +166,7 @@
 ```
 ---
 ### [What Makes Videos Accessible to Blind and Visually Impaired People?](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445233)
-```angular2html
+```shell
 @inproceedings{liu2021makes,
   title={What Makes Videos Accessible to Blind and Visually Impaired People?},
   author={Liu, Xingyu and Carrington, Patrick and Chen, Xiang'Anthony' and Pavel, Amy},
@@ -177,7 +177,7 @@
 ```
 ---
 ### ["Person, Shoes, Tree. Is the Person Naked?" What People with Vision Impairment Want in Image Descriptions](https://dl.acm.org/doi/pdf/10.1145/3313831.3376404)
-```angular2html
+```shell
 @inproceedings{stangl2020person,
   title={" Person, Shoes, Tree. Is the Person Naked?" What People with Vision Impairments Want in Image Descriptions},
   author={Stangl, Abigale and Morris, Meredith Ringel and Gurari, Danna},
@@ -188,7 +188,7 @@
 ```
 ---
 ### [Going Beyond One-Size-Fits-All Image Descriptions to Satisfy the Information Wants of People Who are Blind or Have Low Vision](https://www-cs.stanford.edu/~merrie/papers/assets2021_scenarios.pdf)
-```angular2html
+```shell
 @inproceedings{stangl2021going,
   title={Going beyond one-size-fits-all image descriptions to satisfy the information wants of people who are blind or have low vision},
   author={Stangl, Abigale and Verma, Nitin and Fleischmann, Kenneth R and Morris, Meredith Ringel and Gurari, Danna},
@@ -199,7 +199,7 @@
 ```
 ---
 ### [Opportunities for Supporting Self-efficacy Through Orientation & Mobility Training Technologies for Blind and Partially Sighted People](https://discovery.ucl.ac.uk/id/eprint/10139357/1/ASSETS21%20v2-1-submitted.pdf)
-```angular2html
+```shell
 @inproceedings{bandukda2021opportunities,
   title={Opportunities for Supporting Self-efficacy Through Orientation \& Mobility Training Technologies for Blind and Partially Sighted People},
   author={Bandukda, Maryam and Holloway, Catherine and Singh, Aneesha and Barbareschi, Giulia and Berthouze, Nadia},
@@ -210,7 +210,7 @@
 ```
 ---
 ### [GMPC-Tracker: Global Multi-object Tracking Using Generalized Minimum Clique Graphs](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d95d505a959c9fc8090cb84287dce92128fce63e)
-```angular2html
+```shell
 @inproceedings{roshan2012gmcp,
   title={Gmcp-tracker: Global multi-object tracking using generalized minimum clique graphs},
   author={Roshan Zamir, Amir and Dehghan, Afshin and Shah, Mubarak},
@@ -222,7 +222,7 @@
 ```
 ---
 ### [Toward Automatic Audio Description Generation for Accessible Videos](https://par.nsf.gov/servlets/purl/10223292)
-```angular2html
+```shell
 @inproceedings{wang2021toward,
   title={Toward automatic audio description generation for accessible videos},
   author={Wang, Yujia and Liang, Wei and Huang, Haikun and Zhang, Yongqi and Li, Dingzeyu and Yu, Lap-Fai},
@@ -233,7 +233,7 @@
 ```
 ---
 ### [A Benchmark and Simulator for UAV Tracking](https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Where-I-can-find-the-details-of-UAV-videos-in-VIVID-dataset-commonly-use-to-evaluate-moving-object-detection-algorithms/attachment/59d63ebb79197b807799b4ec/AS%3A425034935214084%401478347633545/download/A+Benchmark+and+Simulator+for+UAV+Tracking.pdf)
-```angular2html
+```shell
 @inproceedings{mueller2016benchmark,
   title={A benchmark and simulator for uav tracking},
   author={Mueller, Matthias and Smith, Neil and Ghanem, Bernard},
@@ -245,7 +245,7 @@
 ```
 ---
 ### [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815)
-```angular2html
+```shell
 @article{liu2023pre,
   title={Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing},
   author={Liu, Pengfei and Yuan, Weizhe and Fu, Jinlan and Jiang, Zhengbao and Hayashi, Hiroaki and Neubig, Graham},
@@ -259,7 +259,7 @@
 ```
 ---
 ### [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation](http://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Masked-Attention_Mask_Transformer_for_Universal_Image_Segmentation_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{cheng2022masked,
   title={Masked-attention mask transformer for universal image segmentation},
   author={Cheng, Bowen and Misra, Ishan and Schwing, Alexander G and Kirillov, Alexander and Girdhar, Rohit},
@@ -270,7 +270,7 @@
 ```
 ---
 ### [Qetch: Time Series Querying with Expressive Sketches](https://www.researchgate.net/publication/325374842_Qetch_Time_Series_Querying_with_Expressive_Sketches)
-```angular2html
+```shell
 @inproceedings{mannino2018qetch,
   title={Qetch: Time series querying with expressive sketches},
   author={Mannino, Miro and Abouzied, Azza},
@@ -281,7 +281,7 @@
 ```
 ---
 ### [Masked-attention Mask Transformer for Universal Image Segmentation](http://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Masked-Attention_Mask_Transformer_for_Universal_Image_Segmentation_CVPR_2022_paper.pdf)
-```angular2html
+```shell
 @inproceedings{cheng2022masked,
   title={Masked-attention mask transformer for universal image segmentation},
   author={Cheng, Bowen and Misra, Ishan and Schwing, Alexander G and Kirillov, Alexander and Girdhar, Rohit},
@@ -292,7 +292,7 @@
 ```
 ---
 ### [Revealing the Dark Secrets of Masked Image Modeling](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Revealing_the_Dark_Secrets_of_Masked_Image_Modeling_CVPR_2023_paper.pdf)
-```angular2html
+```shell
 @inproceedings{xie2023revealing,
   title={Revealing the dark secrets of masked image modeling},
   author={Xie, Zhenda and Geng, Zigang and Hu, Jingcheng and Zhang, Zheng and Hu, Han and Cao, Yue},
@@ -303,7 +303,7 @@
 ```
 ---
 ### [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Attention_Attention_Everywhere_Monocular_Depth_Prediction_With_Skip_Attention_WACV_2023_paper.pdf)
-```angular2html
+```shell
 @inproceedings{agarwal2023attention,
   title={Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention},
   author={Agarwal, Ashutosh and Arora, Chetan},
@@ -314,7 +314,7 @@
 ```
 ---
 ### [Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth](https://arxiv.org/pdf/2201.07436)
-```angular2html
+```shell
 @article{kim2022global,
   title={Global-local path networks for monocular depth estimation with vertical cutdepth},
   author={Kim, Doyeon and Ka, Woonghyun and Ahn, Pyungwhan and Joo, Donggyu and Chun, Sehwan and Kim, Junmo},
@@ -324,7 +324,7 @@
 ```
 ---
 ### [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/pdf/2208.02816)
-```angular2html
+```shell
 @inproceedings{ni2022expanding,
   title={Expanding language-image pretrained models for general video recognition},
   author={Ni, Bolin and Peng, Houwen and Chen, Minghao and Zhang, Songyang and Meng, Gaofeng and Fu, Jianlong and Xiang, Shiming and Ling, Haibin},
@@ -336,7 +336,7 @@
 ```
 ---
 ### [RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics](https://arxiv.org/pdf/2011.12954.pdf)
-```angular2html
+```shell
 @article{DBLP:journals/corr/abs-2011-12954,
   author       = {Peng Jiang and
                   Philip R. Osteen and
@@ -356,7 +356,7 @@
 ```
 ---
 ### [Learning to Segment Rigid Motions from Two Frames](http://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Learning_To_Segment_Rigid_Motions_From_Two_Frames_CVPR_2021_paper.pdf)
-```angular2html
+```shell
 @inproceedings{yang2021learning,
   title={Learning to segment rigid motions from two frames},
   author={Yang, Gengshan and Ramanan, Deva},
@@ -367,7 +367,7 @@
 ```
 ---
 ### [CelebV-Text: A Large-Scale Facial Text-Video Dataset](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_CelebV-Text_A_Large-Scale_Facial_Text-Video_Dataset_CVPR_2023_paper.pdf)
-```angular2html
+```shell
 @inproceedings{yu2023celebv,
   title={CelebV-Text: A Large-Scale Facial Text-Video Dataset},
   author={Yu, Jianhui and Zhu, Hao and Jiang, Liming and Loy, Chen Change and Cai, Weidong and Wu, Wayne},
@@ -378,7 +378,7 @@
 ```
 ---
 ### [OpenAI Gym](https://arxiv.org/pdf/1606.01540)
-```angular2html
+```shell
 @article{brockman2016openai,
   title={Openai gym},
   author={Brockman, Greg and Cheung, Vicki and Pettersson, Ludwig and Schneider, Jonas and Schulman, John and Tang, Jie and Zaremba, Wojciech},
@@ -388,7 +388,7 @@
 ```
 ---
 ### [Relation-Aware Graph Convolutional Networks for Agent-Initiated Social E-Commerce Recommendation](https://scholar.archive.org/work/jrge5cfacfalzgjvmn7hncyyu4/access/wayback/https://www.microsoft.com/en-us/research/uploads/prod/2019/09/CIKM19-recogcn.pdf)
-```angular2html
+```shell
 @inproceedings{xu2019relation,
   title={Relation-aware graph convolutional networks for agent-initiated social e-commerce recommendation},
   author={Xu, Fengli and Lian, Jianxun and Han, Zhenyu and Li, Yong and Xu, Yujian and Xie, Xing},
@@ -399,7 +399,7 @@
 ```
 ---
 ### [Superpoint: Self-supervised interest point detection and description](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf)
-```angular2html
+```shell
 @inproceedings{detone2018superpoint,
   title={Superpoint: Self-supervised interest point detection and description},
   author={DeTone, Daniel and Malisiewicz, Tomasz and Rabinovich, Andrew},
@@ -410,7 +410,7 @@
 ```
 ---
 ### [A novel parametrization of the perspective-three-point problem for a direct computation of absolute camera position and orientation](https://www.researchgate.net/profile/Davide-Scaramuzza-3/publication/319770452_A_novel_parametrization_of_the_perspective-three-point_problem_for_a_direct_computation_of_absolute_camera_position_and_orientation/links/5a423ec2a6fdcce1971426ce/A-novel-parametrization-of-the-perspective-three-point-problem-for-a-direct-computation-of-absolute-camera-position-and-orientation.pdf)
-```angular2html
+```shell
 @inproceedings{kneip2011novel,
   title={A novel parametrization of the perspective-three-point problem for a direct computation of absolute camera position and orientation},
   author={Kneip, Laurent and Scaramuzza, Davide and Siegwart, Roland},
@@ -422,7 +422,7 @@
 ```
 ---
 ### [Structure-from-motion revisited](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)
-```angular2html
+```shell
 @inproceedings{schonberger2016structure,
   title={Structure-from-motion revisited},
   author={Schonberger, Johannes L and Frahm, Jan-Michael},
@@ -433,7 +433,7 @@
 ```
 ---
 ### [The tenth visual object tracking vot2022 challenge results](https://drive.google.com/file/d/1KcTuJImILUhtNT098BNW5D4TScWVO6lU/view)
-```angular2html
+```shell
 @inproceedings{kristan2023tenth,
   title={The tenth visual object tracking vot2022 challenge results},
   author={Kristan, Matej and Leonardis, Ale{\v{s}} and Matas, Ji{\v{r}}{\'\i} and Felsberg, Michael and Pflugfelder, Roman and K{\"a}m{\"a}r{\"a}inen, Joni-Kristian and Chang, Hyung Jin and Danelljan, Martin and Zajc, Luka {\v{C}}ehovin and Luke{\v{z}}i{\v{c}}, Alan and others},
@@ -445,7 +445,7 @@
 ```
 ---
 ### [Lasot: A high-quality benchmark for large-scale single object tracking](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.pdf)
-```angular2html
+```shell
 @inproceedings{fan2019lasot,
   title={Lasot: A high-quality benchmark for large-scale single object tracking},
   author={Fan, Heng and Lin, Liting and Yang, Fan and Chu, Peng and Deng, Ge and Yu, Sijia and Bai, Hexin and Xu, Yong and Liao, Chunyuan and Ling, Haibin},
@@ -456,7 +456,7 @@
 ```
 ---
 ### [Probabilistic Volumetric Fusion for Dense Monocular SLAM](https://openaccess.thecvf.com/content/WACV2023/papers/Rosinol_Probabilistic_Volumetric_Fusion_for_Dense_Monocular_SLAM_WACV_2023_paper.pdf)
-```angular2html
+```shell
 @inproceedings{rosinol2023probabilistic,
   title={Probabilistic Volumetric Fusion for Dense Monocular SLAM},
   author={Rosinol, Antoni and Leonard, John J and Carlone, Luca},
@@ -466,7 +466,7 @@
 }
 ```
 ### [SegMap: Segment-based mapping and localization using data-driven descriptors](https://arxiv.org/pdf/1909.12837)
-```angular2html
+```shell
 @article{dube2020segmap,
   title={SegMap: Segment-based mapping and localization using data-driven descriptors},
   author={Dube, Renaud and Cramariuc, Andrei and Dugas, Daniel and Sommer, Hannes and Dymczyk, Marcin and Nieto, Juan and Siegwart, Roland and Cadena, Cesar},
@@ -480,7 +480,7 @@
 ```
 ---
 ### [Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/pdf/1909.11065)
-```angular2html
+```shell
 @article{yuan2019segmentation,
   title={Segmentation transformer: Object-contextual representations for semantic segmentation},
   author={Yuan, Yuhui and Chen, Xiaokang and Chen, Xilin and Wang, Jingdong},
@@ -490,7 +490,7 @@
 ```
 ---
 ### [Deep High-Resolution Representation Learning for Visual Recognition](https://arxiv.org/pdf/1908.07919)
-```angular2html
+```shell
 @article{wang2020deep,
   title={Deep high-resolution representation learning for visual recognition},
   author={Wang, Jingdong and Sun, Ke and Cheng, Tianheng and Jiang, Borui and Deng, Chaorui and Zhao, Yang and Liu, Dong and Mu, Yadong and Tan, Mingkui and Wang, Xinggang and others},
@@ -504,7 +504,7 @@
 ```
 ---
 ### [AirDOS: dynamic SLAM benefits from articulated objects](https://arxiv.org/pdf/2109.09903)
-```angular2html
+```shell
 @inproceedings{qiu2022airdos,
   title={AirDOS: dynamic SLAM benefits from articulated objects},
   author={Qiu, Yuheng and Wang, Chen and Wang, Wenshan and Henein, Mina and Scherer, Sebastian},
@@ -516,7 +516,7 @@
 ```
 ---
 ### [Unified Representation of Geometric Primitives for Graph-SLAM Optimization Using Decomposed Quadrics](https://arxiv.org/pdf/2108.08957)
-```angular2html
+```shell
 @inproceedings{zhen2022unified,
   title={Unified representation of geometric primitives for graph-slam optimization using decomposed quadrics},
   author={Zhen, Weikun and Yu, Huai and Hu, Yaoyu and Scherer, Sebastian},
@@ -527,7 +527,7 @@
 }
 ```
 ### [AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking](https://arxiv.org/pdf/2209.12849)
-```angular2html
+```shell
 @article{ghosh2022airtrack,
   title={AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking},
   author={Ghosh, Sourish and Patrikar, Jay and Moon, Brady and Hamidi, Milad Moghassem and others},
@@ -536,7 +536,7 @@
 }
 ```
 ### [VDO-SLAM: A Visual Dynamic Object-aware SLAM System](https://arxiv.org/pdf/2005.11052)
-```angular2html
+```shell
 @article{zhang2020vdo,
   title={VDO-SLAM: a visual dynamic object-aware SLAM system},
   author={Zhang, Jun and Henein, Mina and Mahony, Robert and Ila, Viorela},
@@ -545,7 +545,7 @@
 }
 ```
 ### [ORB-SLAM: a versatile and accurate monocular SLAM system](https://arxiv.org/pdf/1502.00956)
-```angular2html
+```shell
 @article{mur2015orb,
   title={ORB-SLAM: a versatile and accurate monocular SLAM system},
   author={Mur-Artal, Raul and Montiel, Jose Maria Martinez and Tardos, Juan D},
@@ -558,7 +558,7 @@
 }
 ```
 ### [ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/pdf/2111.09734)
-```js
+```shell
 @article{mokady2021clipcap,
   title={Clipcap: Clip prefix for image captioning},
   author={Mokady, Ron and Hertz, Amir and Bermano, Amit H},
@@ -567,7 +567,7 @@
 }
 ```
 ### [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774)
-```js
+```shell
 @misc{openai2023gpt4,
       title={GPT-4 Technical Report}, 
       author={OpenAI},
@@ -578,7 +578,7 @@
 }
 ```
 ### [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
-```js
+```shell
 @article{radford2019language,
   title={Language models are unsupervised multitask learners},
   author={Radford, Alec and Wu, Jeffrey and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya and others},
@@ -590,7 +590,7 @@
 }
 ```
 ### [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020)
-```
+```shell
 @inproceedings{radford2021learning,
   title={Learning transferable visual models from natural language supervision},
   author={Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and others},
@@ -600,3 +600,24 @@
   organization={PMLR}
 }
 ```
+---
+### [A 3D Mixed Reality Interface for Human-Robot Teaming](https://arxiv.org/pdf/2310.02392.pdf)
+```shell
+@article{chen20233d,
+  title={A 3D Mixed Reality Interface for Human-Robot Teaming},
+  author={Chen, Jiaqi and Sun, Boyang and Pollefeys, Marc and Blum, Hermann},
+  journal={arXiv preprint arXiv:2310.02392},
+  year={2023}
+}
+```
+---
+### [CLAIR: Evaluating Image Captions with Large Language Models](https://arxiv.org/pdf/2310.12971.pdf)
+```shell
+@article{chan2023clair,
+  title={CLAIR: Evaluating Image Captions with Large Language Models},
+  author={Chan, David and Petryk, Suzanne and Gonzalez, Joseph E and Darrell, Trevor and Canny, John},
+  journal={arXiv preprint arXiv:2310.12971},
+  year={2023}
+}
+```
+---
