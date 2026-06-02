@@ -17,6 +17,9 @@
 ---
 ### [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/pdf/2308.12952)
 ---
+### Effect of Delays
+### [Effects of Onset Latency and Robot Speed Delays on Mimicry-Control Teleoperation](https://graphics.cs.wisc.edu/Papers/2020/RMG20/rmg-hri2020.pdf)
+---
 
 ### Leader Follower
 
