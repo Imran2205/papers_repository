@@ -122,7 +122,7 @@
 ---
 ### [TacPalm: A Soft Gripper with a Biomimetic Optical Tactile Palm for Stable Precise Grasping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10706767)
 ---
-### [IEEE Xplore Document 11128300](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11128300)
+### [HumanFT: A Human-like Fingertip Multimodal Visuo-Tactile Sensor](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11128300)
 ---
-### [IEEE Xplore Document 11127381](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11127381)
+### [TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11127381)
 ---
