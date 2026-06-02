@@ -50,28 +50,27 @@
 ---
 
 ## Policy
-
-### [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/pdf/2209.05451)
----
-### [World Action Models are Zero-shot Policies](https://arxiv.org/pdf/2602.15922)
----
-### [From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data](https://arxiv.org/pdf/2606.00054)
----
-### [World Model on Million-Length Video And Language With Blockwise RingAttention](https://arxiv.org/pdf/2402.08268)
----
 ### [pi_0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)
 ---
 ### [pi_0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)
 ---
 ### [pi*_0.6: a VLA That Learns From Experience](https://arxiv.org/pdf/2511.14759)
 ---
+### [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/pdf/2503.14734)
+---
+### [World Action Models are Zero-shot Policies](https://arxiv.org/pdf/2602.15922)
+---
+### [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/pdf/2209.05451)
+---
+### [From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data](https://arxiv.org/pdf/2606.00054)
+---
+### [World Model on Million-Length Video And Language With Blockwise RingAttention](https://arxiv.org/pdf/2402.08268)
+---
 ### [mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/pdf/2512.15692)
 ---
 ### [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/pdf/2408.11039)
 ---
 ### [Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747)
----
-### [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/pdf/2503.14734)
 ---
 ### [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
 ---
