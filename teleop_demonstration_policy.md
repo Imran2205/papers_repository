@@ -1,4 +1,4 @@
-# Teleop + Demonstration Data Collection
+# Teleop + Demonstration Data Collection + Robot Policies
 
 ---
 
