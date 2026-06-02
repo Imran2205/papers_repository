@@ -32,6 +32,9 @@
 - [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/pdf/2310.08864)
 - [BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation](https://arxiv.org/pdf/2403.09227)
 ---
+## Robot Learning Tutorial
+- [Robot Learning: A Tutorial](https://arxiv.org/pdf/2510.12403)
+---
 # Policy
 - [pi_0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)
 - [pi_0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)
