@@ -20,7 +20,7 @@
 
 ### Leader Follower
 
-### [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/pdf/2304.13705)
+### [ALOHA+ACT: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/pdf/2304.13705)
 ---
 
 ### Handheld Gripper
